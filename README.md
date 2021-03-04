@@ -21,7 +21,7 @@ The project ocnsider the following surfaces of terrain for Motion Planning and S
 
 The distribution of terrains are as follows:
 
-<img src="" width="640" height="480">
+<img src="simulation/terrain.png" width="640" height="480">
 
 ## Requirements
 
@@ -31,9 +31,17 @@ The following are the project dependencies:
 
 ## Outputs
 
-<img src="" width="640" height="480">
+<p>
+    <img src="simulation/a*.png" alt>
+    <em>A* output</em>
+</p>
 
+<p>
+    <img src="simulation/csa*.png" alt>
+    <em>CSA* output</em>
+</p>
 
-<img src="" width="640" height="480">
-
-
+<p>
+    <img src="simulation/uneven.gif" alt>
+    <em>ROS simulation</em>
+</p>
