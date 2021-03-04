@@ -1,4 +1,4 @@
-# Path Planning for an Autonomous Vehicle in an Uneven Terrain
+# Path Planning for an Autonomous Vehicle in Uneven Terrain
 
 ## Introduction
 
