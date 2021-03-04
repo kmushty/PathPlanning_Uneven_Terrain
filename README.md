@@ -21,7 +21,7 @@ The project ocnsider the following surfaces of terrain for Motion Planning and S
 
 The distribution of terrains are as follows:
 
-<img src="simulation/terrain.png" width="640" height="480">
+<img src="simulation/terrains.png" width="640" height="350">
 
 ## Requirements
 
