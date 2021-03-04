@@ -32,16 +32,16 @@ The following are the project dependencies:
 ## Outputs
 
 <p>
-    <img src="simulation/a*.png" alt>
+    <img src="simulation/a*.png" width="640" height="480"alt>
     <em>A* output</em>
 </p>
 
 <p>
-    <img src="simulation/csa*.png" alt>
+    <img src="simulation/csa*.png" width="640" height="480"alt>
     <em>CSA* output</em>
 </p>
 
 <p>
-    <img src="simulation/uneven.gif" alt>
+    <img src="simulation/uneven.gif" width="640" height="480"alt>
     <em>ROS simulation</em>
 </p>
