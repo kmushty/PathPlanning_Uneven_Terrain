@@ -8,7 +8,7 @@ additional challenge of consuming extra energy considering the additional fricti
 energy difference and understand the performance of an energy-based heuristic function in comparison to the behavior of a distance-based heuristic function as 
 defined in a standard A* algorithm.
 
-The project ocnsider the following surfaces of terrain for Motion Planning and Simulation:
+The project consider the following surfaces of terrain for Motion Planning and Simulation:
 
 - Inclined up
 - Inclined down
