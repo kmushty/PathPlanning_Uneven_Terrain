@@ -30,12 +30,18 @@ The following are the project dependencies:
 - ROS Melodic
 
 ## Outputs
+<p>
+    <em>A* output</em>
+</p>
 
 <p>
     <img src="simulation/a*.png" width="640" height="480"alt>
 </p>
+
+
+
 <p>
-    <em>A* output</em>
+    <em>CSA* output</em>
 </p>
 
 <p>
@@ -44,13 +50,11 @@ The following are the project dependencies:
 </p>
 
 <p>
-    <em>CSA* output</em>
+    <em>ROS simulation</em>
 </p>
+
 
 <p>
     <img src="simulation/uneven.gif" alt>
 </p>
 
-<p>
-    <em>ROS simulation</em>
-</p>
